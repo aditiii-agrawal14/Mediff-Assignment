@@ -1,0 +1,5 @@
+DEBUG 2021-07-08 23:48:08,471 This is just a harmless debug message
+INFO 2021-07-08 23:48:08,472 This is just an information for you
+WARNING 2021-07-08 23:48:08,472 OOPS!!!Its a Warning
+ERROR 2021-07-08 23:48:08,473 Have you try to divide a number by zero
+CRITICAL 2021-07-08 23:48:08,473 The Internet is not working....
