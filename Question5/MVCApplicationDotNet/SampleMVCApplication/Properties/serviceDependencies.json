@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "application_connection"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "local_connection"
+    }
+  }
+}
